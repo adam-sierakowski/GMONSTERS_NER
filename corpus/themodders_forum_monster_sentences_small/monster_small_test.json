@@ -1,0 +1,1250 @@
+[
+  [
+    "PrintScreen (\"Wytrzymałość trolla\", -1, 25, FONT_ScreenSmall,2 );",
+    {
+      "entities": [
+        [
+          27,
+          33,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "-Rozumiem że poziom trudności podniosłeś ale żeby na łatwym poziomie goblin przy wieży Xardasa ściągał na hita?",
+    {
+      "entities": [
+        [
+          69,
+          75,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Osobiscie poszedłem schematem -> Zbroja Czeladnika -> Pancerz mistrza zabójców -> Pancerz Pełzacza -> Pancerz Wybrańca Beliara -> Średni Pancerz Łowcy Smoków x5 I narazie czekam, troche jeszcze siły potrzebuję na zbroję Pana Cienia.",
+    {
+      "entities": [
+        [
+          90,
+          98,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Gram magiem ognia. Mam ten kostur, który zadaje 60 obrażeń. Mam 47 siły, many nieco ponad 60, w zręczność w ogóle nie inwestuję (nie ukrywam, że troche źle rozdysponowałem trochę punktów i mikstur). Zębaczom nie zabieram nawet 1 hp. Żeby zabić grupę tychże potworów potrzebuję trzech deszczów ognia, a zbieram już kamienie ogniskujące. Czy to trochę nie przesada?",
+    {
+      "entities": [
+        [
+          199,
+          207,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mdl_SetVisualBody    (self,    \"Ske_Body\", DEFAULT, DEFAULT, \"\", DEFAULT, DEFAULT, -1); //Skopiowane ze skryptu szkieleta",
+    {
+      "entities": [
+        [
+          112,
+          121,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zębacz ogarnij się kmiocie napisz na pw albo na gg żebym widział teraz już cie pewnie nie ma ... jak nie chcesz grac to po prostu powiedź ...",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "\"Kretoszczur\",",
+    {
+      "entities": [
+        [
+          1,
+          12,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wewnętrzny zamek (trzeba mieć reputację albo sposób, ja to zrobiłem przemianą w chrząszcza), chyba drugi budynek na prawo, schodzi się schodkami w dół i za zamkniętymi drzwiami.",
+    {
+      "entities": [
+        [
+          80,
+          90,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "- Dodałem szkielety strażników o nazwie \"Cichy strażnik Xardasa\" w wieży Xardasa\" - coś w stylu Returninga",
+    {
+      "entities": [
+        [
+          10,
+          19,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Jedairusz A czy na następnej bitwie nie miał być temat organika? Bo golem nie bardzo z organikom mi się kojarzy.",
+    {
+      "entities": [
+        [
+          68,
+          73,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ktoś się orientuje gdzie znajdują się przepisy na wszystkie z elementów zbroi łowcy smoków? (nagolenniki znalazłem w jaskini z nieumarłym szkieletem-magiem, niedaleko wykopalisk w pobliżu Trelis) Plus kto uczy oprawiania smoków (łuski, serca)? I czy jeżeli zabiłem wcześniej smoka (jego truchło nie zniknęło), zanim nauczę się jego oprawiania, to czy będę mógł jeszcze wyciągnąć z niego trofea?",
+    {
+      "entities": [
+        [
+          138,
+          148,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "A teraz dodam goblina. Wyszedł chyba gorzej niż topór i jest trochę niestarannie wykonany ale oceńcie:",
+    {
+      "entities": [
+        [
+          14,
+          21,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ktoś się orientuje gdzie znajdują się przepisy na wszystkie z elementów zbroi łowcy smoków? (nagolenniki znalazłem w jaskini z nieumarłym szkieletem-magiem, niedaleko wykopalisk w pobliżu Trelis)",
+    {
+      "entities": [
+        [
+          138,
+          148,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "W wersji 0.9.8 z łuku stalowego można zabić nawet trolla.",
+    {
+      "entities": [
+        [
+          50,
+          56,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Miało być tak że wilk może nam sprzedać schemat, a gdy mamy 2-gi poziom płatnerstwa sami go wykuwamy",
+    {
+      "entities": [
+        [
+          17,
+          21,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wilku, 16:17:32:",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zainstalowałem wszystko tak jak w instrukcji. Gdy odbiłem Ardeę i porozmawiałem ze wszystkimi, Tristan założył na siebie ten pancerz z pełzaczy. Tekstura z jego głowy stworzyła ogromną ściano-teksturę. Co robić?",
+    {
+      "entities": [
+        [
+          135,
+          143,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Btw dziękuję za grę Zębacz.",
+    {
+      "entities": [
+        [
+          20,
+          26,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pancerz z Jaszczura (Poprawiony):",
+    {
+      "entities": [
+        [
+          10,
+          19,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Szczur atakuje Bezimiennego:",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wilku, 16:13:21:",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mod ma tylko zmienione targowiska i ścieżki zaś cały świat bez zmian.Brak npc a nawet potworów poza goblinami przy ognisku....",
+    {
+      "entities": [
+        [
+          100,
+          109,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "-Dodano 3 nowe pancerze (\"Wzmocniony pancerz ze skóry trolla\", \"Ochrona czarnego trolla\",\"Wzmocniona ochrona Czarnego Trolla\") Wszystkie te pancerze możemy wykuć gdy znamy schemat podstawowego pancerza trolla",
+    {
+      "entities": [
+        [
+          54,
+          60,
+          "MONSTER"
+        ],
+        [
+          81,
+          87,
+          "MONSTER"
+        ],
+        [
+          118,
+          124,
+          "MONSTER"
+        ],
+        [
+          202,
+          208,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Przykład: Zbroja Strażnika Świątynnego z CM, zdobywana po zabiciu pełzacza, sprawia, że ​​kupowanie pancerza o podobnych statystykach od frakcji nie ma sensu, ponieważ nie wymaga pieniędzy i zdobywania reputacji.",
+    {
+      "entities": [
+        [
+          66,
+          74,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Orlan (Baltram) usłyszał, że Akil ma zamiar hodować ścierwojady. Idziemy pogadać z farmerem. To prawda Akil chce hodować te ptaki. Chce żeby mu pomóc przyprowadzić je do zagrody. Potrzebuje trzech rodzajów ptaków: Leśnego ścierwojada (las za farmą Akila), Preriowego ścierwojada (płaskowyż), Zwykłego ścierwojada (okolice gospody). Musimy w tym celu pogadać z Niclasem. On nam doradza, że ścierwojady lubią owczą kiełbasę. Możemy ją kupić u Orlana, Isgarotha oraz od Alwina. Gdy podejdziemy do ścierwojada włączamy ekwipunek i wyrzucamy kiełbasę potem kawałek dalej itd. aż do zagrody Akila.",
+    {
+      "entities": [
+        [
+          222,
+          233,
+          "MONSTER"
+        ],
+        [
+          267,
+          278,
+          "MONSTER"
+        ],
+        [
+          301,
+          312,
+          "MONSTER"
+        ],
+        [
+          494,
+          505,
+          "MONSTER"
+        ],
+        [
+          52,
+          63,
+          "MONSTER"
+        ],
+        [
+          389,
+          400,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "11/teraz Lodowy Golem nie jest już odporny na zwykłe czary ogniowe - dodano całkowitą odporność na magię powietrza",
+    {
+      "entities": [
+        [
+          16,
+          21,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pozatym przy dobrych < jak na tamte czasy > tetskturach postaci, dev wcisneli kwadracioki z G 1 i 2 . Czyli, 3D ork < przy okazji, gorskie orki wygladaja nieprofesjonalnie> a przy nim kwadratowy Thorus, w zdbroi z G1, pomysl fajny ale to jakby grac w Nowego Need for Speeda, i w wyscigu bierze udzial Mercedes 2015 i Porshe < tekstura auta > z NFS Porshe z 2000 roku ......ALbo inny przyklad, swiat 3D w miare realistyczny, a tu nagle atakuje CIe Troll czy inne zwierze z teksturami z G1 lub 2, myslalem ze te tekstury beda chociaz troszke zmienione. Do tego dochodza zbugowane dziweki potworow. Oczywiscie - scierwojad - slychac ladnie dzwiegi ze starszych gothicow jak nas atakuje, ale to by bylo na tyle, innych dzwiekow nie wydaje.  Tak to mniej wiecej wyglada. Ogolnie malo zmian wzgledem QP 4.2 U2 i CM 2.6. W ekwipunku jest strasznie duzo zbugowanych ikonek, wiele zmian ktore zostaly wczesniej zaaplikowane ulega zbugowaniu ze tak powiem",
+    {
+      "entities": [
+        [
+          447,
+          452,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nie wiem do czego pijesz z tym prawdziwym fanem. Jestem fanej tej gry, ale czy mam się podniecać i interesować zmienioną animacją goblina trzepiącego kapucyna by być prawdziwym fanem? Don't think so.",
+    {
+      "entities": [
+        [
+          130,
+          137,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "-Poprawki z nieoficjalnego patcha (tego tutaj, na tM), których nie ma w ER, a tam są gotowe (oczywiście te, które pasują i które mogą się przydać, np.z Goblinami),",
+    {
+      "entities": [
+        [
+          152,
+          161,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "29.Hodowla ścierwojadów",
+    {
+      "entities": [
+        [
+          11,
+          23,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nawet jak zombie leży to go uderz, potem udaj się do Myxira",
+    {
+      "entities": [
+        [
+          10,
+          16,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Moje pierwsze wrażenie jest w połowie pozytywne, w połowie neutralne. Ja np. nie mam pretensji o te znaczniki, jak już dotarłem do miejsca gdzie coś ma leżeć to może mi się podświetlić żebym nie szukał jakiegoś itemu który leży metr ode mnie w trawie. Świat jest fajnie zaprezentowany, tego się spodziewałem po kolonii karnej w nowej grze. Mogło by być tylko mniej kolorowo. Walka taka o, trochę drewno ale są też fajne momenty, podobały mi się skaczące wilki haratające szyję.",
+    {
+      "entities": [
+        [
+          454,
+          459,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "3) Wilson łowca orków nie dał questa pobocznego z przyniesieniem jedzenia od Wilka.",
+    {
+      "entities": [
+        [
+          77,
+          82,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "zębacz smugowy",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "I jeszcze jedno pytanko:  od Volkera dostałem misje, żeby przynieść mu futro wilka. Kto może mnie nauczyć ściągania futer, a jeżeli nikt na tym etapie gry mnie tego nie nauczy, to gdzie mogę zdobyć to futro?",
+    {
+      "entities": [
+        [
+          77,
+          82,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Bosper chce dla siebie skórę trolla. Aby ją zdobyć musimy zabić trolla lub kupić ją u Talbina.",
+    {
+      "entities": [
+        [
+          29,
+          35,
+          "MONSTER"
+        ],
+        [
+          64,
+          70,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mam już chyba ostatnie pytanie... idąc ścieżką do trolla napotkałem wyznawców beliara i po krótkiej konwersacji zabili mnie, postanowiłem podać się za wyznawce beliara i mnie puścili, zdobyłem płyty do pancerza pełzacza i teleportowałem się do miasta, oddałem je Matteo i myślałem, że to on sprawi mi nową zbrójkę, niestety się zawiodłem. I tu pytanie...gdzie ja mogę zdobyć jakąś lepsza zbroję gdyż w tej jestem bardzo słaby a w walce z tymi odcośtam będę miał bardzo małe szanse?",
+    {
+      "entities": [
+        [
+          50,
+          56,
+          "MONSTER"
+        ],
+        [
+          211,
+          219,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "lub wczytać save Z PRZED dostania tej misji, sprawdzić komendą EDIT FOCUS kod na zombie i po kolei przyzywać i sprawdzać , gdzie polezą. Powodzenia.",
+    {
+      "entities": [
+        [
+          81,
+          87,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Przemiana w Pełzacza",
+    {
+      "entities": [
+        [
+          12,
+          20,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "6/teraz aby wykonać runę Armia Ciemności wystarczy 1 serce szkieletu maga a nie 6 i 1 serce demona  a nie 3 -poprawiono mylny ogólnie wpis na ten temat",
+    {
+      "entities": [
+        [
+          59,
+          68,
+          "MONSTER"
+        ],
+        [
+          92,
+          98,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wywalili w GD ten głaz co był koło zębacza i zrobili coś a'la Balkon XD",
+    {
+      "entities": [
+        [
+          35,
+          42,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zębacz x",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "30 siły + 0 (szczur nie ma broni) - 10 (odporność bohatera na obrażenia od ostrza [Strój obywatela]) = 20 obrażeń < 25. Szczur Ci zada 25 obrażeń i będzie Cię musiał uderzyć 4 razy. Bezimienny ma 100 punktów życia na start.",
+    {
+      "entities": [
+        [
+          13,
+          19,
+          "MONSTER"
+        ],
+        [
+          120,
+          126,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Broń dystansowa jest op tak samo jak magia a jeszcze zbieranie strzał to znacznie ułatwienie więc albo zmniejsz znacznie obrażenia z łuku albo zbalansuj to tak że łuki nie działają na stworzenia takie jak smoki, golemy szkielety itp",
+    {
+      "entities": [
+        [
+          212,
+          218,
+          "MONSTER"
+        ],
+        [
+          219,
+          228,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zębacz x Żadna Głupia Spółgłoska",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Szczur i Żądłoszczur (Wilk)",
+    {
+      "entities": [
+        [
+          22,
+          26,
+          "MONSTER"
+        ],
+        [
+          0,
+          6,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wybaczcie drzewka na grzbiecie Jaszczurów Grzmotów i smugi po atakach włóczni \"Sentinel'a\", dopiero te niedopatrzenia zobaczyłem przy edycji filmiku a nagrywać mi się drugi raz nie chciało.",
+    {
+      "entities": [
+        [
+          31,
+          41,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Młody ścierwojad",
+    {
+      "entities": [
+        [
+          6,
+          16,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ogólnie cofnij to. Nie możemy wrzucać wszystkich osób do jednego wora \"trolli\".",
+    {
+      "entities": [
+        [
+          71,
+          77,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Kilka zdań o modzie L'Hiver. Można nauczyć się nie tylko kucia broni, wyrobu strzał i łuków, ale też wykuwania i ulepszania niektórych pancerzy. Dla przykładu Skórzany pancerz można ulepszać chyba 4 razy. Można zrobić pancerz ze skóry trolla, pancerz najemnika, z czarnej rudy, szatę maga bojowego, królewski pancerz. To świetny pomysł i urozmaicenie rozgrywki.",
+    {
+      "entities": [
+        [
+          235,
+          241,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Już zrobiłem te zadanie - nazwy niestety nie podam bo nie jestem u siebie i musiałbym włączyć grę (droższe nadziewane pralinki wyrzuciłem na stolik, poczekałem parę dni, kupiłem tańsze pralinki, nadziałem je i w momencie wchodzenia do domu zaliczył mi się wpis w dzienniku - teraz tylko poczekałem do północy i wziąłem upragnioną bryłkę). Modyfikacja kapitalna, w pamięć szczególnie zapadły mi dwie misje - początkowa z chrząszczem (zdecydujcie się wypróbować zwój, warto!) i druga polegająca na ochronie kowala w jaskini. Gra się bardzo przyjemnie, instalacja przebiegła bezproblemowo - polecam. Tylko jedno mi się nie podoba - w kolczudze bohater wygląda jakby miał anemię, strasznie chudy.",
+    {
+      "entities": [
+        [
+          420,
+          431,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Przemiana w Zębacza",
+    {
+      "entities": [
+        [
+          12,
+          19,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "\"Jaszczur\",         // 17",
+    {
+      "entities": [
+        [
+          1,
+          9,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Co do truchła to już zdążyłem zauważyć. Za późno nauczyłem się oprawiania zwierząt i mam problem ze zdobyciem skór wilków dla Gnara, bo zabrakło wilków, a co gorsza z jednego smoka nie pozyskałem trofeów i nie zrobię wszystkich Embarla Firgasto",
+    {
+      "entities": [
+        [
+          115,
+          121,
+          "MONSTER"
+        ],
+        [
+          145,
+          151,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Swoją drogą mam też postulat, trochę liberalny i szokujący jak dla mnie: Znieśmy zakaz rozmowy o modach w shoutboxie. Forum umiera i naprawdę nie widzę powodu dobijać go w ten sposób. Rozumiem, by kasować pytania w stylu \"Ej, gdzie znajdę rudę do Niszczyciela Demonów\", ale pozostawienie możliwości luźnej rozmowy odnośnie modów jako takich, produkcji itd byłoby całkiem fajne.",
+    {
+      "entities": [
+        [
+          260,
+          267,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "- Dodano informację o występowaniu jaszczurów w lesie we wpisie do dziennika w zadaniu \"Odkrywanie wyspy\"",
+    {
+      "entities": [
+        [
+          35,
+          45,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pytanko. Ten goblin ZixZaz Nierozgarnięty.. W zasadzie to po co on jest? On jest bo jest? Czy jest częścią jakiegoś questa? Cholernie trudno go zabić, a nawet nic nie dropi i żaden quest się nie zalicza po jego zabiciu. Ktoś wie dlaczego goblin o takim imieniu istnieje? (Znajduje się w pobliżu przełęczy do Nordmaru nad Faring zaraz przed wejściem na półkę skalną z dwoma kamiennymi golemami).",
+    {
+      "entities": [
+        [
+          384,
+          392,
+          "MONSTER"
+        ],
+        [
+          13,
+          19,
+          "MONSTER"
+        ],
+        [
+          238,
+          244,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "4. Płytki z pełzacza dla Matteo",
+    {
+      "entities": [
+        [
+          12,
+          20,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "-Jakieś drobne przedmioty w ekwipunku Goblinów (po monecie, bryłce rudy, jagodzie, kubku, wytrychu, brzytwie, etc, wiadomo, żeby coś miały, bo tylko one nic nie dają, a to przecież Gobliny! Zbierają różne rzeczy!),",
+    {
+      "entities": [
+        [
+          181,
+          188,
+          "MONSTER"
+        ],
+        [
+          38,
+          46,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ja też się dołączę. Wymodeluję coś podobnego do zombie.",
+    {
+      "entities": [
+        [
+          48,
+          54,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Nawet w historii nigdy nie pojawiły się ścierwojady, krwiopjce, polne bestie, cieniostwory i wiele innych.",
+    {
+      "entities": [
+        [
+          40,
+          51,
+          "MONSTER"
+        ],
+        [
+          78,
+          90,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sorry, że tak późno odpisuje. Ogółem te potwory morskie i pająki wywale. Nie dość, że nie wiem czemu nie działają to jeszcze te ich tekstury i tak są słabe. Golemy spróbuje poprawić jakoś.",
+    {
+      "entities": [
+        [
+          157,
+          163,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Powinien  ze sobą raczej współgrać, bo nie ma co wstawiać lodowego golema obok  bagiennego smoka. Nie wstawiamy też w lodowej krainie, drzew z wyspy  Khorinis. Ale co do level deignu to",
+    {
+      "entities": [
+        [
+          67,
+          73,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Konczy się na tym że Thorben się zgadza na budowe domu i idzie ale nie ma go tam gdzie był Dexter w Gothic 2 noc Kruka. Zrobiłem wszystko co chciał narzędzia, pomocników Tilla Wilka Cavalorna i Pardos. Pablo pilnuje domu i wszystkie narzędzia. A w dzienniku Zewszystko wykonane i mistrz Thorben się zgodził na budowe i poszedł.",
+    {
+      "entities": [
+        [
+          176,
+          181,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "-Najemnik zombie",
+    {
+      "entities": [
+        [
+          10,
+          16,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "- cieniostwór Śniącego (Shadowbeast_poweredbySlepper) - zakładam, że jeśli już, to też kiedyś miał być w świątyni Śpiocha?",
+    {
+      "entities": [
+        [
+          2,
+          13,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "- \"metaliczny\" dźwięk efektu blokowania ataku przez pełzacza zastąpiono innym efekt.",
+    {
+      "entities": [
+        [
+          52,
+          60,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "- Bosper ma na pancerz ze skóry trolla,",
+    {
+      "entities": [
+        [
+          32,
+          38,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zupa z Pełzacza",
+    {
+      "entities": [
+        [
+          7,
+          15,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "\"Wilk\",",
+    {
+      "entities": [
+        [
+          1,
+          5,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "[ramka]Pewnego dnia dwie grupy obozowiczów wędruję po lesie. Wkącu zatrzumują się na noc, ale spokój zakłocają nieproszeni goście (zombie). Wszyscy giną oprucz Pawła (który uciekł jak tchusz). Nasz uciekinier wędruje po wyspie khorinis poszukiwując innych przetrwanców. Gdy Paweł ma już większą grupę zakłada miasto Celestia i niepytając nikogo o zdanie zostaje królem. Nagle pojawia się Janek (mega pierdoła) który zagłada sobie za cel wyzwolenie wyspy. [/ramka]",
+    {
+      "entities": [
+        [
+          131,
+          137,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "\"VPrzemiana w jaszczura\",   // SPL_TRF_WARAN   =   38;",
+    {
+      "entities": [
+        [
+          14,
+          23,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wyjście z 3 towarzyszami z karczmy było trudniejsze niż banda goblinów, które ukradły Almanach Talasowi. Moja rada jest skromna i bez tłumika. Najpierw przestawić WP Willowi i spółce przed karczme, a potem dać im porządanie za Betzym.",
+    {
+      "entities": [
+        [
+          62,
+          70,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Poda ktoś jakiegoś tipa jak walczyć z trollami bez bugowania i przywołan, jak się nie da ich blokować?",
+    {
+      "entities": [
+        [
+          38,
+          46,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "- chrząszcze zawsze giną po jednym trafieniu dowolną bronią lub pięścią;",
+    {
+      "entities": [
+        [
+          2,
+          12,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Witam. Niedawno zacząłem zabawę z tą modyfikacją i mam taki problem że grając jakiś czas zauważyłem że zniknęły mi wszystkie potwory (wilki, gobliny itd..) w całym Khorinis nic nie ma, musiałem wczytać starszy zapis na którym jeszcze były. Nurtuje mnie jedynie pytanie czym mogło to być spowodowane, czy ktoś wie byłbym bardzo wdzięczny za odpowiedź.",
+    {
+      "entities": [
+        [
+          141,
+          148,
+          "MONSTER"
+        ],
+        [
+          134,
+          139,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wilku, 16:21:37:",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Świetnie, że na początku gry dostaję się misję eskortowanie kopaczy, którzy padają od krwiopijcy, podczas gdy samemu ciężko jest dać radę grupce ścierwojadów. Mogłaby być chociaż jakaś wzmianka w dzienniku, że trzeba ich doprowadzić, bo była tylko informacja w stylu \"zostałem kopaczem, teraz wpuszczą mnie do kopalni\".",
+    {
+      "entities": [
+        [
+          145,
+          157,
+          "MONSTER"
+        ],
+        [
+          86,
+          96,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Przyzwanie Szkieletów",
+    {
+      "entities": [
+        [
+          11,
+          21,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "@Preriowy ścierwojad",
+    {
+      "entities": [
+        [
+          10,
+          20,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Mam wrażenie że twórcy sami nie wiedzą co chcą zrobić, nie zbadali za bardzo zwierząt z oryginału, a przecież gdy rozmawiamy z Draksem szkodnikiem z nowego obozu mówi nam że \"Ścierwojady - tak nazywamy te wielkie ptaszyska...\". Popatrzyli na gothicowe bestie i zrobili takie coś na szybko aby było co zaprezentować.",
+    {
+      "entities": [
+        [
+          175,
+          186,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "> Peratur ma amulet dzięki którem ognisty demon nie zabija go od razu",
+    {
+      "entities": [
+        [
+          42,
+          47,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Poprawcie jeszcze buga z dmg'em. Jak mamy tego golema przed tamtą fortecą, gdzie jest Lester i kamień ogniskujący, to golema nie mogłem zabić brońmi z MT (oczywiście najnowsza wersja MT), które miały nawet (grubo) ponad 150dmg'a. Na szczęście znalazłem wówczas w ekwipunku jakąś broń z podstawki z obrażeniami rzędu 40-50 i zabiłem gnoja. I coś mi się przypomina, że pod koniec gry w świątyni Śniącego, musiałem chyba używać Uriziela do zabicia czegośtam, a innymi brońmi z MT nie szło. Do tego drugiego nie jestem w 100% pewny, ale raczej tak było.",
+    {
+      "entities": [
+        [
+          47,
+          53,
+          "MONSTER"
+        ],
+        [
+          118,
+          124,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Apropo fabuły nekro w 1.3.1, to mnie akurat zabolało, że w 5 akcie jak xardas znika to nic nie mogłem zrobić  chyba z 10 serduszkami demonów i można by to przeniesc na kreola",
+    {
+      "entities": [
+        [
+          133,
+          140,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Cytat: Młody ścierwojad w 2018-03-31, 21:48",
+    {
+      "entities": [
+        [
+          13,
+          23,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "- zwiększono PŻ pełzacza-wojownika",
+    {
+      "entities": [
+        [
+          16,
+          24,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "(może dlatego, że bohaterem odszedłem na płaskowyżu w tę stronę i gra chciała cieniostwora tam podprowadzić (mimo oczywistych różnic w wysokości, bo bohater był na górze, a stwór na dole).",
+    {
+      "entities": [
+        [
+          78,
+          90,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Jeśli rzeczywiście nie ma pełzaczy, ani żaden handlarz nie ma płytek, to użyj kodów.",
+    {
+      "entities": [
+        [
+          26,
+          34,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Więc tak: szukam nauczyciela zręczności, wilk nie nauczy mnie więcej niż 40, a innego nie mogę znaleźć 25.gif Gdzie go/jej szukać?",
+    {
+      "entities": [
+        [
+          41,
+          45,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Żelazny Golem",
+    {
+      "entities": [
+        [
+          8,
+          13,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "- usunięto efekt krwawienia z Zombie oraz Lodowego golema;",
+    {
+      "entities": [
+        [
+          51,
+          57,
+          "MONSTER"
+        ],
+        [
+          30,
+          36,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zadanie dostajemy od Miki. Idziemy do Akila, potem do Egilla i Enhima, którzy za chwilę będą czekać przy schodach. Zagadujemy do jednego z nich i idziemy do miasta. Po drodze spotkamy kilka krwiopijców i wilków. Przed bramą czekamy na Mikę.",
+    {
+      "entities": [
+        [
+          190,
+          201,
+          "MONSTER"
+        ],
+        [
+          204,
+          210,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Więc tak: szukam nauczyciela zręczności, wilk nie nauczy mnie więcej niż 40, a innego nie mogę znaleźć",
+    {
+      "entities": [
+        [
+          41,
+          45,
+          "MONSTER"
+        ]
+      ]
+    }
+  ],
+  [
+    "Ogólnie trzeba pamiętać, że to jest playable teaser, nawet nie demo. Więc mnóstwo rzeczy jest okrojonych. Zarzutów jednak mam dużo - Bezimienny nie zachowuje się jak Bezimienny, dodatkowo Diego na niego mówi: \"rookie\". Sam Diego zachowuje się strasznie teatralnie, a nie jak ten z pierwszej czy nawet drugiej części. Wszystko się świeci jak psu jajca na Wielkanoc, ale od Risen 2 PB nas do tego przyzwyczaiło (tak, wiem, że PB tego nie robi). Ogólnie jest też kilka niezrozumiałych zmian. Bezimienny jest też znacznie silniejszy niż ten, który był w G1, dodatkowo ma tatuaż na ręce, nie ma brody. Taki spoiler mały, ale jest zadanie, w którym musimy walczyć ze strażnikiem ze Starego Obozu. Co prawda rannym, ale nadal - napierdzielamy się z nim jakimś złamanym mieczem i możemy go pokonać. W G1 na samym początku to trudno było pokonać nawet nieco silniejszego kopacza, jak Grim, a co dopiero się bić ze strażnikiem... Diego też poznajemy nieco inaczej, nadal nas ratuje, ale nie przed Bulitem, tylko przed zębaczami czy czymś zębaczopodobnym. Brak też scenki, w której pojawia się Pyrokar przed sędziom, wręczając nam list. Nie da się przewijać dialogów, nie da się przewijać cutscenek, których jest moim zdaniem dość dużo. Brakuje takiego ciężkiego, więziennego, szorstkiego klimatu. Muzyka jest ok, ale nie umywa się do tego z G1. No dużo by się rozpisywać... Ogólnie jakby mieli zrobić remake, to spoko, że pewne zmiany by były, ale imo zamiast aż tak bardzo kombinować na nowo, to po prostu pododawać wycięty z G1 content, może trochę z Gothic Sequel, porobić nowe questy, a samą główną linię tylko nieco modyfikować. Po przejściu gry zresztą jest ankieta, którą można wypełnić i jakieś sugestie im podrzucić.",
+    {
+      "entities": [
+        [
+          1008,
+          1017,
+          "MONSTER"
+        ]
+      ]
+    }
+  ]
+]
