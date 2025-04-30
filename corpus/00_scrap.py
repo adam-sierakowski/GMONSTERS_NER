@@ -5,7 +5,7 @@ from urllib.parse import urljoin, urlparse
 import time
 
 BASE_URL = 'https://www.themodders.org/'
-OUTPUT_DIR = 'themodders_forum'
+OUTPUT_DIR = 'themodders_forum_all'
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 visited = set()
