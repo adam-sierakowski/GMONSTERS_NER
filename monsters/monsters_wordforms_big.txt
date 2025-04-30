@@ -375,6 +375,19 @@ wężowi błotnemu
 wężu błotny
 wężu błotnym
 węży błotnych
+szkielecie-magu
+szkielet-mag
+szkielet-maga
+szkieleta-maga
+szkieletach-magach
+szkieletami-magami
+szkieletem-magiem
+szkieletom-magom
+szkieletowi-magowi
+szkieletu-maga
+szkielety-magowie
+szkielety-magów
+szkieletów-magów
 smocze zębacze
 smoczego zębacza
 smoczemu zębaczowi
@@ -417,6 +430,16 @@ baranom
 baranowi
 barany
 baranów
+goblin-wojownik
+goblina-wojownika
+goblinach-wojownikach
+goblinami-wojownikami
+goblinem-wojownikiem
+goblinie-wojowniku
+goblinom-wojownikom
+goblinowi-wojownikowi
+gobliny-wojownicy
+goblinów-wojowników
 młode wilki
 młodego wilka
 młodemu wilkowi
@@ -485,6 +508,17 @@ orkowie-zwiadowcy
 orku-zwiadowco
 orku-zwiadowcy
 orków-zwiadowców
+szkielecie goblina
+szkielet goblina
+szkieleta goblina
+szkieletach goblina
+szkieletami goblina
+szkieletem goblina
+szkieletom goblina
+szkieletowi goblina
+szkieletu goblina
+szkielety goblina
+szkieletów goblina
 panter
 pantera
 panterach
@@ -516,6 +550,17 @@ hersztom orków
 hersztowi orków
 hersztowie orków
 hersztów orków
+szkielecie-goblinie
+szkielet-goblin
+szkieleta-goblina
+szkieletach-goblinach
+szkieletami-goblinami
+szkieletem-goblinem
+szkieletom-goblinom
+szkieletowi-goblinowi
+szkieletu-goblina
+szkielety-gobliny
+szkieletów-goblinów
 kamienne golemy
 kamiennego golema
 kamiennemu golemowi
@@ -815,6 +860,16 @@ szkieletowi magowi z wieży mgieł
 szkieletu maga z wieży mgieł
 szkielety magów z wieży mgieł
 szkieletów magów z wieży mgieł
+pełzacz-wojownik
+pełzacza-wojownika
+pełzaczach-wojownikach
+pełzaczami-wojownikami
+pełzacze-wojownicy
+pełzaczem-wojownikiem
+pełzaczom-wojownikom
+pełzaczowi-wojownikowi
+pełzaczu-wojowniku
+pełzaczy-wojowników
 topielca spod tamy
 topielcach spod tamy
 topielcami spod tamy
