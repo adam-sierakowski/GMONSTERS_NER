@@ -42,7 +42,7 @@ On the held-out test set:
 - Recall: ~91%
 - F1-score: ~89%
 
-I could train the model for more epochs to better scores, but I like it that currently it also recognizes novel monsters that were not annotated in the training and test datasets (see the note in next section). This drives the recall down. The downside is that it could also recognize false positives.
+I could train the model for more epochs to achieve better scores, but I like it that currently it also recognizes novel monsters that were not annotated in the training and test datasets (see the note in next section). This drives the recall down. The downside is that it could also recognize false positives.
 
 Ideally it would be better to drive precision up and keep recall at about 90%, but this is a toy project.
 
