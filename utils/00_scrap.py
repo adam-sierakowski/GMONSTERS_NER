@@ -28,27 +28,32 @@ def extract_text_and_save(url, idx):
     except Exception as e:
         print(f'Error fetching {url}: {e}')
 
-idx = 0
-while to_visit:
-    current = to_visit.pop()
-    if current in visited:
-        continue
-    visited.add(current)
+def main():
+    idx = 0
+    while to_visit:
+        current = to_visit.pop()
+        if current in visited:
+            continue
+        visited.add(current)
 
-    try:
-        resp = requests.get(current, timeout=10)
-        soup = BeautifulSoup(resp.text, 'html.parser')
-    except:
-        continue
+        try:
+            resp = requests.get(current, timeout=10)
+            soup = BeautifulSoup(resp.text, 'html.parser')
+        except:
+            continue
 
-    extract_text_and_save(current, idx)
-    idx += 1
+        extract_text_and_save(current, idx)
+        idx += 1
 
-    for a in soup.find_all('a', href=True):
-        href = urljoin(current, a['href'])
-        if is_valid_forum_link(href):
-            netloc = urlparse(href).netloc
-            if 'themodders.org' in netloc:
-                to_visit.add(href)
+        for a in soup.find_all('a', href=True):
+            href = urljoin(current, a['href'])
+            if is_valid_forum_link(href):
+                netloc = urlparse(href).netloc
+                if 'themodders.org' in netloc:
+                    to_visit.add(href)
 
-    time.sleep(1)  # be polite
+        time.sleep(1)  # be polite
+
+if __name__ == "__main__":
+    main()
+
