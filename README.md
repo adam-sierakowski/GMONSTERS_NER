@@ -60,32 +60,30 @@ Ideally it would be better to drive precision up and keep recall at about 90%, b
 # 📂 Contents
 
 ```bash
-./corpus:
-00_scrap.py  # Scrap text from forum
-01_filter_corpus.py  # Filter the scrapped text to contain only paragraphs mentioning monsters
-02_annotate_no_overlap.py  # Annotate the sentences to create train and test datasets
+./notebooks/
+├── train_0.1.ipynb # Training pipeline for the custom NER model
+└── evaluate.ipynb # Evaluation notebook: precision, recall, F1
 
-./corpus/themodders_forum_compact:
-themodders.txt  # Scrapped contents from forum
+./res/data/dataset/
+└── themodders.txt # Compact version of scraped forum contents
 
-./corpus/themodders_forum_monster_sentences_big:
-monster_big_no_overlap_stats.csv  # Stats: which wordforms appear in each dataset split
-monster_big_no_overlap_test.json  # Annotated test dataset
-monster_big_no_overlap_train.json  # Annotated train dataset
-themodders_monster_sentences_big.txt  # Filtered corpus with paragraphs mentioning monsters
+./res/data/dataset/themodders_forum_monster_sentences_big/
+├── themodders_monster_sentences_big.txt # Filtered paragraphs mentioning monsters
+├── monster_big_no_overlap_train.json # Annotated training dataset (no overlapping spans)
+├── monster_big_no_overlap_test.json # Annotated test dataset
+└── monster_big_no_overlap_stats.csv # Wordform frequency stats (train/test split)
 
-./model:
-train_0.1.ipynb  # Train the model
-evaluate.ipynb  # Evaluate the model
+./res/data/monsters/
+├── monsters_wordforms_big.txt # Full list of monster wordforms used for annotation
+└── monsters_wordforms_small.txt # Smaller subset of the above
 
+./res/model/
+└── gmonsters_ner_0.1/ # Trained spaCy model directory
 
-./model/gmonsters_ner_0.1  # The resulting model
-./model/gmonsters_ner_0.1/ner  # The custom NER pipeline that was created
-./model/gmonsters_ner_0.1/*  # All the rest of the model (should be same as Spacy pl_core_news_md)
-
-./monsters:
-monsters_wordforms_big.txt  # Wordforms that were used to create annotations
-monsters_wordforms_small.txt  # A subset of the "big" file
+./utils/
+├── 00_scrap.py # Scrapes raw forum text
+├── 01_filter_corpus.py # Filters for paragraphs with monster mentions
+└── 02_annotate_no_overlap.py # Annotates data with MONSTER entities, resolves overlaps
 ```
 
 ## 📜 License
