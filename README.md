@@ -42,7 +42,7 @@ On the held-out test set:
 - Recall: ~92%
 - F1-score: ~91%
 
-The model is able to recognize novel monsters that were not annotated in the training and test datasets (see the note in next section). This drives the precision down, but is a good thing.
+The model is able to recognize novel monsters that were not annotated in the training and test datasets (see the note in next section). This drives the precision down, but is a good thing. It could also mean that there are false positives, which is a bad thing. More testing would be needed to find this out.
 
 # 🖋️ How the annotations were created
 
