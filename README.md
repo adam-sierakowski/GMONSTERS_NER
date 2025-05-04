@@ -38,13 +38,11 @@ print([(ent.text, ent.label_) for ent in doc.ents])
 # 📊 Metrics
 
 On the held-out test set:
-- Precision: ~86%
-- Recall: ~91%
-- F1-score: ~89%
+- Precision: ~91%
+- Recall: ~92%
+- F1-score: ~91%
 
-I could train the model for more epochs to achieve better scores, but I like it that currently it also recognizes novel monsters that were not annotated in the training and test datasets (see the note in next section). This drives the precision down. The downside is that it could also recognize false positives.
-
-Ideally it would be better to drive precision up and keep recall at about 90%, but this is a toy project.
+The model is able to recognize novel monsters that were not annotated in the training and test datasets (see the note in next section). This drives the precision down, but is a good thing.
 
 # 🖋️ How the annotations were created
 
@@ -61,8 +59,7 @@ Ideally it would be better to drive precision up and keep recall at about 90%, b
 
 ```bash
 ./notebooks/
-├── train_0.1.ipynb # Training pipeline for the custom NER model
-└── evaluate.ipynb # Evaluation notebook: precision, recall, F1
+└── train.ipynb # Training pipeline for the custom NER model
 
 ./res/data/dataset/
 └── themodders.txt # Compact version of scraped forum contents
@@ -78,7 +75,7 @@ Ideally it would be better to drive precision up and keep recall at about 90%, b
 └── monsters_wordforms_small.txt # Smaller subset of the above
 
 ./res/model/
-└── gmonsters_ner_0.1/ # Trained spaCy model directory
+└── gmonsters_ner_0.2/ # Trained spaCy model directory
 
 ./utils/
 ├── 00_scrap.py # Scrapes raw forum text
