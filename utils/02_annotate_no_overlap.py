@@ -20,11 +20,12 @@ def remove_overlaps(entities):
 
 def main():
     # Load monster wordforms
-    with open("../monsters/monsters_wordforms_big.txt", "r", encoding="utf-8") as f:
+    with open("../res/data/monsters/monsters_wordforms_big.txt", "r", encoding="utf-8") as f:
         monster_forms = set(line.strip().lower() for line in f if line.strip())
 
     # Load sentences
-    with open("themodders_forum_monster_sentences_big/themodders_monster_sentences_big.txt", "r", encoding="utf-8") as f:
+    with open("../res/data/dataset/themodders_forum_monster_sentences/themodders_monster_sentences.txt",
+        "r", encoding="utf-8") as f:
         sentences = [line.strip() for line in f if line.strip()]
 
     data = []
@@ -56,13 +57,16 @@ def main():
     update_counts(train_data, "train")
     update_counts(test_data, "test")
 
-    with open("monster_big_train.json", "w", encoding="utf-8") as f:
+    with open("../res/data/dataset/themodders_forum_monster_sentences/monster_big_train.json",
+        "w", encoding="utf-8") as f:
         json.dump(train_data, f, ensure_ascii=False, indent=2)
 
-    with open("monster_big_test.json", "w", encoding="utf-8") as f:
+    with open("../res/data/dataset/themodders_forum_monster_sentences/monster_big_test.json",
+        "w", encoding="utf-8") as f:
         json.dump(test_data, f, ensure_ascii=False, indent=2)
 
-    with open("monster_big_stats.csv", "w", newline="", encoding="utf-8") as f:
+    with open("../res/data/dataset/themodders_forum_monster_sentences/monster_big_stats.csv",
+        "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["wordform", "train_count", "test_count"])
         for word, counts in sorted(wordform_stats.items()):
