@@ -87,7 +87,7 @@ pandas==2.2.3
 pandocfilters==1.5.1
 parso==0.8.4
 pexpect==4.9.0
-pillow==11.2.1
+pillow==12.2.0
 pl_core_news_md @ https://github.com/explosion/spacy-models/releases/download/pl_core_news_md-3.8.0/pl_core_news_md-3.8.0-py3-none-any.whl#sha256=4f433a556880c0b7ef01970e7c612c0e30103b893e6d26ed54672d8e056ad9b1
 platformdirs==4.3.7
 preshed==3.0.9
