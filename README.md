@@ -1,5 +1,3 @@
-> ⚠️ I'm getting emails from GitHub that the dependencies in this project are creating security vulnerabilities. I created this as a coding exercise so I'm too lazy to fix it.
-
 # 🧌 gmonsters_ner – Custom Polish Monster NER
 
 This project is an exercise in training custom Named Entity Recognition (NER) model in Spacy.
