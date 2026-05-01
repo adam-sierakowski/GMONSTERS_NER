@@ -29,7 +29,7 @@ defusedxml==0.7.1
 emoji==2.14.1
 executing==2.2.0
 fastjsonschema==2.21.1
-filelock==3.18.0
+filelock==3.20.3
 fonttools==4.60.2
 fqdn==1.5.1
 fsspec==2025.3.2
